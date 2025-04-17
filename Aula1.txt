@@ -1,0 +1,44 @@
+
+Ziel: Einen Orangenkuchen backen
+
+1- Schlagen Sie die Eier, den Zucker, das Öl, den Saft und die Orangenschalen im Mixer.
+2- Geben Sie die Mischung in eine Schüssel und fügen Sie das Mehl und das Backpulver hinzu.
+3- Bereiten Sie die Form vor, fetten und bemehlen Sie sie, falls noch nicht geschehen.
+4- Übertragen Sie die Mischung aus der Schüssel in die Form.
+5- Backen Sie den Kuchen in der gefetteten und bemehlten Form etwa 30 Minuten lang.
+6- Nehmen Sie den Kuchen aus der Form und befeuchten Sie ihn mit Orangensaft.
+
+Pseudocode
+
+alles_mixen(eier, zucker, öl, saft, schalen)
+in_schüssel_geben(mischung)
+    hinzufügen(mischung, mehl, backpulver)
+backform_vorbereiten(form)
+    wenn nicht_gefettet_und_bemehlt(form):
+        fetten_und_bemehlen(form)
+in_form_geben(mischung, form)
+kuchen_backen(form, 30_minuten)
+kuchen_ausformen(form)
+kuchen_traenken(kuchen, orangensaft)
+
+
+
+
+
+Objetivo: enviar um e-mail com nosso codigo.
+
+1- Abrir o navegador
+
+2- Entrar no gmail
+
+3- Fazer o login no meu email
+        Se o email ja estiver logado: 
+            Passe para o proximo Passo
+        Caso contrario: 
+            Fazer o Login
+
+4- Clicar no botao de criar o email
+
+5- Escrever o email
+
+6- Clicar no botao de enviar
